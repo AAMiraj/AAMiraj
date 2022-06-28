@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AAMiraj
-- 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning Deep Learning.
+- 👋 Hi, I’m @AAMiraj.
+- 👀 I’m interested in Artificial Intelligence, Web Design & Development.
+- 🌱 I’m currently learning Web Development. Recently, I have learnt Machine Learning, specifically Deep Learning.
 - 💞️ I’m looking to collaborate on Automation System.
 - 📫 How to reach me email: miraj2465@gmail.com
 
