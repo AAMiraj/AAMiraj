@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AAMiraj.
+- 👋 Hi, I’m @aamiraj.
 - 👀 I’m interested in Artificial Intelligence, Web Design & Development.
 - 🌱 I’m currently learning Web Development. Recently, I have learnt Machine Learning, specifically Deep Learning.
 - 💞️ I’m looking to collaborate on Automation System.
